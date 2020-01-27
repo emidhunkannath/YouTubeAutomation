@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+	<Properties>
+		<Property name="basePath">test-output/Logs</Property>
+	</Properties>
+	<Appenders>
+		<RollingFile name="RollingFile" fileName="${basePath}/application.log" filePattern="${basePath}/Archive/application-${date:yyyy-MM-dd-HH-mm-ss}.log">
+			<PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5level] [%t] %c{1} : %L  %msg%n" />
+			<Policies>
+				<OnStartupTriggeringPolicy minSize="1" />
+			</Policies>
+		</RollingFile>
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5level] [%t] %c{1} : %L  %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="com.midhun.youtube.base" level="debug" additivity="true">
+			<appender-ref ref="RollingFile" level="debug" />
+		</Logger>
+		<Root level="debug" additivity="true">
+			<appender-ref ref="console" />
+		</Root>
+	</Loggers>
+</Configuration>

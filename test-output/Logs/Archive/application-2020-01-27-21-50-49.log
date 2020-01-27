@@ -1,0 +1,71 @@
+2020-01-27 21:46:49.646 [INFO ] [main] TestBase : 59  Test started Test
+2020-01-27 21:46:50.331 [INFO ] [main] TestBase : 15  Scenario started scenario
+2020-01-27 21:47:05.311 [INFO ] [main] TestBase : 41  Before navigating to 'https://www.youtube.com'
+2020-01-27 21:47:19.667 [INFO ] [main] TestBase : 47  Navigated to 'https://www.youtube.com'
+2020-01-27 21:47:29.837 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search
+2020-01-27 21:47:29.922 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (009c7ddfd6c15d95e1434fc6c148e93d)] -> id: search] By By.id: search
+2020-01-27 21:47:29.944 [INFO ] [main] TestBase : 113  Value of the [[ChromeDriver: chrome on WINDOWS (009c7ddfd6c15d95e1434fc6c148e93d)] -> id: search] before any changes made
+2020-01-27 21:47:30.371 [INFO ] [main] TestBase : 119  Element value changed to [[ChromeDriver: chrome on WINDOWS (009c7ddfd6c15d95e1434fc6c148e93d)] -> id: search]
+2020-01-27 21:47:30.372 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search-icon-legacy
+2020-01-27 21:47:30.396 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (009c7ddfd6c15d95e1434fc6c148e93d)] -> id: search-icon-legacy] By By.id: search-icon-legacy
+2020-01-27 21:47:30.397 [INFO ] [main] TestBase : 101  Trying to click on [[ChromeDriver: chrome on WINDOWS (009c7ddfd6c15d95e1434fc6c148e93d)] -> id: search-icon-legacy]
+2020-01-27 21:47:33.124 [INFO ] [main] TestBase : 107  Clicked on [[ChromeDriver: chrome on WINDOWS (009c7ddfd6c15d95e1434fc6c148e93d)] -> id: search-icon-legacy]
+2020-01-27 21:47:44.521 [INFO ] [main] TestBase : 21  Scenario passed scenario YouTube Search Validation
+2020-01-27 21:47:44.528 [INFO ] [main] TestBase : 15  Scenario started scenario
+2020-01-27 21:47:56.489 [INFO ] [main] TestBase : 41  Before navigating to 'https://www.youtube.com'
+2020-01-27 21:48:04.713 [INFO ] [main] TestBase : 47  Navigated to 'https://www.youtube.com'
+2020-01-27 21:48:14.736 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search
+2020-01-27 21:48:14.795 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> id: search] By By.id: search
+2020-01-27 21:48:14.798 [INFO ] [main] TestBase : 113  Value of the [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> id: search] before any changes made
+2020-01-27 21:48:15.296 [INFO ] [main] TestBase : 119  Element value changed to [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> id: search]
+2020-01-27 21:48:15.297 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search-icon-legacy
+2020-01-27 21:48:15.320 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> id: search-icon-legacy] By By.id: search-icon-legacy
+2020-01-27 21:48:15.321 [INFO ] [main] TestBase : 101  Trying to click on [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> id: search-icon-legacy]
+2020-01-27 21:48:17.845 [INFO ] [main] TestBase : 107  Clicked on [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> id: search-icon-legacy]
+2020-01-27 21:48:27.890 [INFO ] [main] TestBase : 89  Trying to find element By By.xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string
+2020-01-27 21:48:27.921 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string] By By.xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string
+2020-01-27 21:48:27.922 [INFO ] [main] TestBase : 101  Trying to click on [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string]
+2020-01-27 21:48:28.164 [INFO ] [main] TestBase : 107  Clicked on [[ChromeDriver: chrome on WINDOWS (7a8ff46b66d31200c9ed0b078dc54582)] -> xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string]
+2020-01-27 21:48:30.077 [INFO ] [main] TestBase : 21  Scenario passed scenario YouTube Channel Title Validation
+2020-01-27 21:48:30.085 [INFO ] [main] TestBase : 15  Scenario started scenario
+2020-01-27 21:48:30.228 [INFO ] [main] TestBase : 21  Scenario passed scenario Read Test Data From Excel File
+2020-01-27 21:48:30.230 [INFO ] [main] TestBase : 15  Scenario started scenario
+2020-01-27 21:48:30.322 [INFO ] [main] TestBase : 21  Scenario passed scenario Read Test Data From Excel File for specific skills
+2020-01-27 21:48:30.325 [INFO ] [main] TestBase : 15  Scenario started scenario
+2020-01-27 21:48:43.382 [INFO ] [main] TestBase : 41  Before navigating to 'https://www.youtube.com'
+2020-01-27 21:48:55.746 [INFO ] [main] TestBase : 47  Navigated to 'https://www.youtube.com'
+2020-01-27 21:49:05.796 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search
+2020-01-27 21:49:05.871 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> id: search] By By.id: search
+2020-01-27 21:49:05.873 [INFO ] [main] TestBase : 113  Value of the [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> id: search] before any changes made
+2020-01-27 21:49:06.316 [INFO ] [main] TestBase : 119  Element value changed to [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> id: search]
+2020-01-27 21:49:06.316 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search-icon-legacy
+2020-01-27 21:49:06.342 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> id: search-icon-legacy] By By.id: search-icon-legacy
+2020-01-27 21:49:06.344 [INFO ] [main] TestBase : 101  Trying to click on [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> id: search-icon-legacy]
+2020-01-27 21:49:09.883 [INFO ] [main] TestBase : 107  Clicked on [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> id: search-icon-legacy]
+2020-01-27 21:49:19.908 [INFO ] [main] TestBase : 89  Trying to find element By By.xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string
+2020-01-27 21:49:19.971 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string] By By.xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string
+2020-01-27 21:49:19.973 [INFO ] [main] TestBase : 101  Trying to click on [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string]
+2020-01-27 21:49:20.183 [INFO ] [main] TestBase : 107  Clicked on [[ChromeDriver: chrome on WINDOWS (89b357dfb9ac051a66d2cfd218eca63d)] -> xpath: //ytd-channel-name[@id='channel-title']/div/div/yt-formatted-string]
+2020-01-27 21:49:22.421 [INFO ] [main] TestBase : 21  Scenario passed scenario YouTube Channel Title Validation For Multiple Search String
+2020-01-27 21:49:22.425 [INFO ] [main] TestBase : 15  Scenario started scenario
+2020-01-27 21:49:34.369 [INFO ] [main] TestBase : 41  Before navigating to 'https://www.youtube.com'
+2020-01-27 21:49:53.198 [INFO ] [main] TestBase : 47  Navigated to 'https://www.youtube.com'
+2020-01-27 21:50:03.237 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search
+2020-01-27 21:50:03.296 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (dc12b1b9fea66a7383f2c936d442dbe8)] -> id: search] By By.id: search
+2020-01-27 21:50:03.297 [INFO ] [main] TestBase : 113  Value of the [[ChromeDriver: chrome on WINDOWS (dc12b1b9fea66a7383f2c936d442dbe8)] -> id: search] before any changes made
+2020-01-27 21:50:03.625 [INFO ] [main] TestBase : 119  Element value changed to [[ChromeDriver: chrome on WINDOWS (dc12b1b9fea66a7383f2c936d442dbe8)] -> id: search]
+2020-01-27 21:50:03.625 [INFO ] [main] TestBase : 89  Trying to find element By By.id: search-icon-legacy
+2020-01-27 21:50:03.645 [INFO ] [main] TestBase : 95  Found element [[ChromeDriver: chrome on WINDOWS (dc12b1b9fea66a7383f2c936d442dbe8)] -> id: search-icon-legacy] By By.id: search-icon-legacy
+2020-01-27 21:50:03.646 [INFO ] [main] TestBase : 101  Trying to click on [[ChromeDriver: chrome on WINDOWS (dc12b1b9fea66a7383f2c936d442dbe8)] -> id: search-icon-legacy]
+2020-01-27 21:50:06.460 [INFO ] [main] TestBase : 107  Clicked on [[ChromeDriver: chrome on WINDOWS (dc12b1b9fea66a7383f2c936d442dbe8)] -> id: search-icon-legacy]
+2020-01-27 21:50:16.731 [ERROR] [main] TestBase : 27  Scenario failed scenario YouTube Channel Title Validation For Multiple Search String
+java.lang.AssertionError: Result page title mismatch expected [Bakkappa N - TheTechie AutomationLaboratory - YouTube] but found [Selenium by Bakkappa N - YouTube]
+	at org.testng.Assert.fail(Assert.java:97) ~[testng-7.1.0.jar:?]
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136) ~[testng-7.1.0.jar:?]
+	at org.testng.Assert.assertEquals(Assert.java:118) ~[testng-7.1.0.jar:?]
+	at org.testng.Assert.assertEquals(Assert.java:575) ~[testng-7.1.0.jar:?]
+	at com.midhun.youtube.stepdef.StepDefinitions.search_for_a_channel(StepDefinitions.java:45) ~[classes/:?]
+	at ?.search for a channel(file:///C:/Users/Midhun/eclipse-workspace/YouTubeAutomation/src/main/resources/features/YouTube_Search.feature:46) ~[?:?]
+2020-01-27 21:50:16.954 [INFO ] [main] TestBase : 155  Taking screenshot
+2020-01-27 21:50:18.394 [INFO ] [main] TestBase : 161  Screenshot taken
+2020-01-27 21:50:21.041 [INFO ] [main] TestBase : 66  Test finished Test
