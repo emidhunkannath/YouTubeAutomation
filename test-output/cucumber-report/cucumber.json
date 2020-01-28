@@ -3,11 +3,11 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-01-27T16:20:50.902Z",
+        "start_timestamp": "2020-01-28T15:36:19.202Z",
         "before": [
           {
             "result": {
-              "duration": 998700,
+              "duration": 996200,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 995333000,
+              "duration": 1720527400,
               "status": "passed"
             },
             "line": 6,
@@ -52,7 +52,7 @@
           },
           {
             "result": {
-              "duration": 40293525000,
+              "duration": 66800637300,
               "status": "passed"
             },
             "line": 7,
@@ -64,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 11349219900,
+              "duration": 15727690700,
               "status": "passed"
             },
             "line": 8,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 1409358200,
+              "duration": 1768711800,
               "status": "passed"
             },
             "line": 9,
@@ -100,11 +100,10 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-27T16:21:45.022Z",
+        "start_timestamp": "2020-01-28T15:37:45.314Z",
         "before": [
           {
             "result": {
-              "duration": 899200,
               "status": "passed"
             },
             "match": {
@@ -119,7 +118,6 @@
         "after": [
           {
             "result": {
-              "duration": 995200,
               "status": "passed"
             },
             "match": {
@@ -132,7 +130,7 @@
         "steps": [
           {
             "result": {
-              "duration": 184202300,
+              "duration": 173876400,
               "status": "passed"
             },
             "line": 16,
@@ -150,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 28304890400,
+              "duration": 32626790700,
               "status": "passed"
             },
             "line": 17,
@@ -162,7 +160,7 @@
           },
           {
             "result": {
-              "duration": 10913260000,
+              "duration": 11522333300,
               "status": "passed"
             },
             "line": 18,
@@ -174,7 +172,7 @@
           },
           {
             "result": {
-              "duration": 1394232400,
+              "duration": 1281334400,
               "status": "passed"
             },
             "line": 19,
@@ -186,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 35906900,
+              "duration": 26924000,
               "status": "passed"
             },
             "line": 20,
@@ -198,7 +196,7 @@
           },
           {
             "result": {
-              "duration": 888040000,
+              "duration": 971065400,
               "status": "passed"
             },
             "line": 21,
@@ -222,7 +220,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-27T16:22:26.789Z",
+        "start_timestamp": "2020-01-28T15:38:31.942Z",
         "before": [
           {
             "result": {
@@ -252,7 +250,7 @@
         "steps": [
           {
             "result": {
-              "duration": 170539700,
+              "duration": 162796300,
               "status": "passed"
             },
             "line": 28,
@@ -282,11 +280,10 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-27T16:22:26.980Z",
+        "start_timestamp": "2020-01-28T15:38:32.125Z",
         "before": [
           {
             "result": {
-              "duration": 996800,
               "status": "passed"
             },
             "match": {
@@ -313,7 +310,7 @@
         "steps": [
           {
             "result": {
-              "duration": 200464100,
+              "duration": 58843000,
               "status": "passed"
             },
             "line": 35,
@@ -331,6 +328,7 @@
           },
           {
             "result": {
+              "duration": 996600,
               "status": "passed"
             },
             "line": 36,
@@ -342,7 +340,7 @@
           },
           {
             "result": {
-              "duration": 1042100,
+              "duration": 997400,
               "status": "passed"
             },
             "line": 37,
@@ -366,7 +364,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-27T16:22:27.197Z",
+        "start_timestamp": "2020-01-28T15:38:32.204Z",
         "before": [
           {
             "result": {
@@ -396,7 +394,7 @@
         "steps": [
           {
             "result": {
-              "duration": 83774200,
+              "duration": 74797600,
               "status": "passed"
             },
             "line": 44,
@@ -414,7 +412,7 @@
           },
           {
             "result": {
-              "duration": 33126863500,
+              "duration": 35083302100,
               "status": "passed"
             },
             "line": 45,
@@ -426,7 +424,7 @@
           },
           {
             "result": {
-              "duration": 13151157400,
+              "duration": 11603464700,
               "status": "passed"
             },
             "line": 46,
@@ -438,7 +436,7 @@
           },
           {
             "result": {
-              "duration": 1324356300,
+              "duration": 1243535300,
               "status": "passed"
             },
             "line": 47,
@@ -450,7 +448,7 @@
           },
           {
             "result": {
-              "duration": 25997400,
+              "duration": 28921400,
               "status": "passed"
             },
             "line": 48,
@@ -462,7 +460,7 @@
           },
           {
             "result": {
-              "duration": 862371500,
+              "duration": 909236500,
               "status": "passed"
             },
             "line": 49,
@@ -486,7 +484,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-27T16:23:15.803Z",
+        "start_timestamp": "2020-01-28T15:39:21.177Z",
         "before": [
           {
             "result": {
@@ -516,7 +514,7 @@
         "steps": [
           {
             "result": {
-              "duration": 86761500,
+              "duration": 94060800,
               "status": "passed"
             },
             "line": 44,
@@ -534,7 +532,7 @@
           },
           {
             "result": {
-              "duration": 33607545700,
+              "duration": 35815735800,
               "status": "passed"
             },
             "line": 45,
@@ -547,7 +545,7 @@
           {
             "result": {
               "error_message": "java.lang.AssertionError: Result page title mismatch expected [Bakkappa N - TheTechie AutomationLaboratory - YouTube] but found [Selenium by Bakkappa N - YouTube]\r\n\tat com.midhun.youtube.util.ExtentReporterNG.testStepHandle(ExtentReporterNG.java:45)\r\n\tat com.midhun.youtube.util.TestListener.onTestFailure(TestListener.java:30)\r\n\tat org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:66)\r\n\tat org.testng.internal.TestInvoker.runTestResultListener(TestInvoker.java:219)\r\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:651)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)\r\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\r\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1540)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:766)\r\n\tat org.testng.TestRunner.run(TestRunner.java:587)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1109)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1039)\r\n\tat org.testng.TestNG.run(TestNG.java:1007)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
-              "duration": 12969700200,
+              "duration": 11103215500,
               "status": "failed"
             },
             "line": 46,
@@ -559,7 +557,7 @@
           },
           {
             "result": {
-              "duration": 955200,
+              "duration": 999400,
               "status": "skipped"
             },
             "line": 47,
@@ -582,7 +580,6 @@
           },
           {
             "result": {
-              "duration": 997400,
               "status": "skipped"
             },
             "line": 49,
