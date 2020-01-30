@@ -12,7 +12,7 @@ import io.cucumber.testng.TestNGCucumberRunner;
 @CucumberOptions(features = "src/main/resources/features",
 					glue = { "com.midhun.youtube.stepdef" },
 					tags = { "" },
-					plugin = { "pretty", "html:test-output/cucumber-report", "json:test-output/cucumber-report/cucumber.json" },
+					plugin = { "pretty", "html:target/cucumber-report", "json:target/cucumber-report/cucumber.json" },
 					monochrome = true,
 					strict = true,
 					dryRun = false)

@@ -20,7 +20,8 @@ public class ExtentReporterNG extends TestBase {
 	public static ExtentTest test = null;
 	public static ExtentTest loginfo = null;
 
-	public ExtentReporterNG() throws IOException {}
+	public ExtentReporterNG() throws IOException {
+	}
 
 	public static ExtentReports setUp() {
 
@@ -64,7 +65,10 @@ public class ExtentReporterNG extends TestBase {
 
 		TakesScreenshot screen = (TakesScreenshot) driver;
 		File src = screen.getScreenshotAs(OutputType.FILE);
-		File target = new File("test-output/Screenshots/" + getCurrentDateTime() + ".png");
+		File targetFolder = new File("target/Screenshots");
+		if (!targetFolder.exists())
+			targetFolder.mkdir();
+		File target = new File(targetFolder.getPath() + "/" + getCurrentDateTime() + ".png");
 		src.renameTo(target);
 		return target.getAbsolutePath();
 	}
